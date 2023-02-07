@@ -4,8 +4,9 @@ import "./../styles/App.css";
 function App() {
 
   return (
-    <div id="main" className="bg-pink">
-      <p><h1>This is a paragraph</h1></p>
+    <div id="main">
+      <p>ggjuh</p>
+      <h1>This is a paragraph</h1>
 
       <button id="button">Click Me</button>
       // Do not alter the main div
